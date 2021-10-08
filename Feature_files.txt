@@ -1,0 +1,78 @@
+# Main
+
+--> connect.php (includes)
+--> functions.php (includes)
+
+# Users
+
+--> registration.php
+--> forgot.php
+--> login.php
+--> reset.php
+--> users_admin.php (admin)
+--> users_customer.php (admin)
+--> users_driver.php (admin)
+--> profile.php (admin)
+--> edit_customer.php (admin)
+--> edit_driver.php (admin)
+--> add_users.php (admin)
+
+# Category
+
+--> categories.php (admin)
+--> update_categories.php (admin)
+
+# Food items (Products)
+
+--> add_fooditem.php (admin)
+--> choose_fooditems.php (admin)
+--> edit_fooditem.php (admin)
+--> view_fooditem.php (admin)
+
+# Reservations (1st OTP system)
+
+--> reservation.php
+--> reservation_pending.php (admin)
+--> reservation_success.php (admin)
+--> update_reservation.php (admin)
+
+# Contact(Feedback)
+
+--> index.php and reservation.php
+--> feedback.php (admin)
+
+# Menu (Food items) & Cart
+
+--> menu.php
+--> product-single.php
+--> cart.php
+
+# Checkout and Payment Gateway (2nd OTP system)
+
+--> checkout.php
+--> payment_dbconn.php (2nd database connection for payment gateway)
+--> checkout_hosted.php
+--> OrderTransaction.php
+--> all files in config directory
+--> all files in lib directory (SslCommerzNotification.php is the main file)
+--> all files in pg_redirection directory (success.php is the main file)
+
+# Orders
+
+--> unassigned_orders.php
+--> assigned_orders.php
+--> delivered_orders.php
+
+# Payment Details
+
+--> payment_details.php
+
+# User Panel Dashboard
+
+--> dashboard.php (admin, includes folder)
+
+# Graphical Dashboard for admin
+
+--> admin_dashboard.php
+
+
