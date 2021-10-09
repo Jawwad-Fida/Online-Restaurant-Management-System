@@ -60,3 +60,17 @@ PHP dotenv was created by [Vance Lucas](https://github.com/vlucas) and [Graham C
 
 ## Screenshots 
 
+
+![customer_complete_reserve](https://user-images.githubusercontent.com/64092765/136658354-b60b5478-082d-4c22-9010-6aa8008852f7.png)
+![customer_order_progress](https://user-images.githubusercontent.com/64092765/136658370-62eb6463-e208-40f1-9d48-a284c78f817e.png)
+![customer_payment](https://user-images.githubusercontent.com/64092765/136658375-4b8a98ba-2ae4-4441-bfb2-1077869f21c0.png)
+![customer_pend_reserve](https://user-images.githubusercontent.com/64092765/136658376-0395c031-1184-48a2-bca1-167dc0e47fdb.png)
+![customer_profile](https://user-images.githubusercontent.com/64092765/136658379-533d05cb-2302-45f4-ad2e-da905c8c1b79.png)
+![Screenshot 2021-06-08 195706](https://user-images.githubusercontent.com/64092765/136658384-3c80baf6-93d1-42de-8ac6-1435768f5828.png)
+![Screenshot 2021-06-08 195742](https://user-images.githubusercontent.com/64092765/136658390-487c0ed4-2d06-4cc2-81f5-2b9824a6081c.png)
+![Screenshot 2021-06-08 195828](https://user-images.githubusercontent.com/64092765/136658391-25cd4344-f780-4a6f-bb4b-e747e9b93942.png)
+![Screenshot 2021-06-08 195851](https://user-images.githubusercontent.com/64092765/136658392-a3f83109-6c05-4220-b88d-0a48f7ecf331.png)
+![Screenshot 2021-06-08 200054](https://user-images.githubusercontent.com/64092765/136658395-8cb2aae7-e6c7-459e-984a-b1513873ac19.png)
+![Screenshot 2021-06-08 200106](https://user-images.githubusercontent.com/64092765/136658397-b16f9d78-875b-4e70-9197-04d7fcd3a89b.png)
+
+
