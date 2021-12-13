@@ -19,7 +19,7 @@
       1)Install PHPMAILER by running : - composer require phpmailer/phpmailer (in project folder) (Refer to github link below in Credits)
       2)Install PHP dotenv by running: - composer require vlucas/phpdotenv (in project folder) (Refer to github link below in Credits)
       3)Create account in [Mailtrap](https://mailtrap.io/) and get your account credentials from there
-      4)Set up the database as well as tables - see Database.txt for details
+      4)Set up the database as well as tables - see online_db.sql
       5)Register a user and then change user_role to Admin in order to view Admin Privileges
       6)For Payment Gateway --> SSLCOMMERZ was used (Largest payment gateway in Bangladesh) (Refer to github link below in Credits). Payment Gateway has credentials.    
       7)Look for .env.example files to see what credentials to set up, and then create .env files in those directories. 
