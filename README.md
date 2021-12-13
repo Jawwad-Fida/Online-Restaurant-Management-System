@@ -23,7 +23,7 @@
       5)Register a user and then change user_role to Admin in order to view Admin Privileges
       6)For Payment Gateway --> SSLCOMMERZ was used (Largest payment gateway in Bangladesh) (Refer to github link below in Credits). Payment Gateway has credentials.    
       7)Look for .env.example files to see what credentials to set up, and then create .env files in those directories. 
-      8)All major PHP codes are in (includes folder) -> functions.php, functions2.php 
+      8)All major PHP codes are in (includes folder) -> functions.php
        
 
 ### API's and Composer packages: -
