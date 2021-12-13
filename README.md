@@ -1,10 +1,10 @@
 
 # Online Restaurant Management System 
 
-## Database Management Systems Project - Bachelors in CSE 
+## Database Management Systems Project - Bachelor in CSE 
 ## Created by: - Mohammed Jawwadul Islam and Sayeda Muntaha Ferdous  
 
-### [Linkedin of Jawwad](https://www.linkedin.com/in/jawwadfida/) , [Facebook of Jawwad](https://www.facebook.com/Jawwad.Fida/) 
+### [Linkedin of Jawwad](https://www.linkedin.com/in/jawwadfida/)
 ### [Facebook of Muntaha](https://www.facebook.com/mmuntaha.mahjabin) 
 ### Date of Completion: - Spring 2021 Trimester
 
