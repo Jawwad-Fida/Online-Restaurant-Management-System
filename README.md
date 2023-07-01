@@ -73,4 +73,8 @@ PHP dotenv was created by [Vance Lucas](https://github.com/vlucas) and [Graham C
 ![Screenshot 2021-06-08 200054](https://user-images.githubusercontent.com/64092765/136658395-8cb2aae7-e6c7-459e-984a-b1513873ac19.png)
 ![Screenshot 2021-06-08 200106](https://user-images.githubusercontent.com/64092765/136658397-b16f9d78-875b-4e70-9197-04d7fcd3a89b.png)
 
+## Project documentation
+
+[Project Documentation - Group 3, Sec C.docx](https://github.com/Jawwad-Fida/Online-Restaurant-Management-System/files/11925679/Project.Documentation.-.Group.3.Sec.C.docx)
+
 
